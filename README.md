@@ -2,6 +2,12 @@
 Solana Sniper Bot [Desktop Edition] | Auto-Scan | Anti-Drainer | Jito Support | DePIN Optimized. Secure local trading tool by Mirae VC.
 🔑 Archive Password: MiraeVC
 
+<p align="center">
+  <img src="MiraeVC_avatar_under_1mb.jpg" width="180" />
+</p>
+
+<h1 align="center">Mirae Solana Sniper</h1>
+
 
  Mirae Solana Sniper | Professional Desktop Edition 
 

